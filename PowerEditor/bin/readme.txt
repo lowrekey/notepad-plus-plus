@@ -16,7 +16,7 @@ How to install:
 From the installer:
 	Just follow the install wizard.
 From the zip/7z package:
-	just unzip all the files into a directory you want then launch it.
+	just unzip all the files into a directory you want to launch Notepad++ from.
 
 	
 Web sites:
